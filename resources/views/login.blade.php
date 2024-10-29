@@ -13,7 +13,7 @@
             max-width: 400px;
             margin: 0 auto;
             padding: 50px 0;
-            text-align: center;
+            text-align: center;`
         }
         .logo {
             margin-bottom: 30px;
@@ -89,6 +89,7 @@
         <a href="login.php">create account</a>
     </div>
 </div>
+    
 
 </body>
 </html>
